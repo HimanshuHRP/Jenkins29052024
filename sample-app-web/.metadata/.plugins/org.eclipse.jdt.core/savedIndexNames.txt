@@ -55,7 +55,6 @@ INDEX VERSION 1.134+C:\Users\ASUS\Softwares\sts-4.22.1.RELEASE\Projects\Jenkins\
 2868249357.index
 646919292.index
 4174339431.index
-3384184588.index
 2086989941.index
 1182265604.index
 3140238825.index
