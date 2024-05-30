@@ -15,4 +15,6 @@ public class HelloController {
 	public String sayBye() {
 		return"<h1> Good Byee </h1>";
 	}
+	
+	
 }
